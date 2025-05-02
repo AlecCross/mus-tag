@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   icons: {
     shortcut: "/favicon.ico",
-    apple: [{ url: "/icons/apple-touch-icon.webp", sizes: "180x180" }],
+    apple: [{ url: "/icons/icon-180.webp", sizes: "180x180" }],
   },
 };
 
